@@ -1,0 +1,137 @@
+1. Which is the correct way to add font colour to p tag?(1 Point)
+
+a. p{color:red; }
+
+b. p{bg-color:”red”;}
+
+c. p{font-color:’red’:}
+
+d. p{text-color:red;};
+2.The right command to add external stylesheet to the html page?(1 Point)
+
+a. <link type=”text/stylesheet” href=”style.css”/>
+
+b. <style url=”style.css” style=”text/css”/>
+
+c. <style type=”text/stylesheet” link=”style.css”/>
+
+d. <style name=”style.css” style=”stylesheet”/>
+3.What is the preferred way for adding a background color in HTML?(1 Point)
+
+a. <body style="background-color:yellow">
+
+b. <background color=”yellow”></background>
+
+c. <body background-color=”yellow”>
+
+d. <body color=”yellow”>
+4.Identify the type of CSS : < p style = "direction : rtl; "/>hello<p>(1 Point)
+
+a. Internal Stylesheet
+
+b. Inward Stylesheet
+
+c. Inline Stylesheet
+
+d. External Stylesheet
+5.The below given code comes under ___________ stylesheet
+  
+<p style=”text-transform:uppercase”>Welcome to CSS</p>(1 Point)
+
+a. Internal
+
+b. External
+
+c. Inline
+
+d. Inbound
+6.Which syntax specifies that id is selected?(1 Point)
+
+a. $mydiv
+
+b. *mydiv
+
+c. .mydiv
+
+d. #mydiv
+7.What is the correct HTML element for making a drop-down list?(1 Point)
+
+a. <list type=”dropdown”>
+
+b. <select>
+
+c. <input type=”dropdown”>
+
+d. <input type=”list”>
+8.How to open a link in a new browser window?(1 Point)
+
+a. Using target=”_blank”;
+
+b. Using target=”new”;
+
+c. Using target=”blank”;
+
+d. Using target=”_parent”;
+9.Identify the Inline HTML element(1 Point)
+
+a. <p>
+
+b. <div>
+
+c. <span>
+
+d. <h1>
+10.Identify the correct syntax for lambda expression?(1 Point)
+
+a. let greet = function()=>{console.log(“Hello”)}
+
+b. let greet = function=>{console.log(“Hello”)}
+
+c. let greet = ()=>{console.log(“Hello”)}
+
+d. function greet = ()=>{console.log(“Hello”)}
+11.Identify the correct syntax for function expression?(1 Point)
+
+a. let greet = function(){console.log(“Hello”)}
+
+b. let greet = function greet(){console.log(“Hello”)}
+
+c. let greet = ()->{console.log(“Hello”)}
+
+d. function greet(){console.log(“Hello”)}
+12.What is correct syntax for rest operator?(1 Point)
+
+a. function print(string[]… names){}
+
+b. function print(…names:string){}
+
+c. function print(string[] names){}
+
+d. function print(…names:string[]){}
+13.How to do create union types in typescript?(1 Point)
+
+a. let num:string||number; num=’Sri’
+
+b. let num:string|number; num=’Sri’
+
+c. let num:string&number; num=10
+
+d. let num:string#number; num=’Sri’
+14.What character is used for specifying the property as optional?(1 Point)
+
+a. !
+
+b. ?
+
+c. #
+
+d. $
+15.What is the correct HTML tag for inserting a link?(1 Point)
+
+a. <a href=”http://www.google.com”>visit google</a>
+
+b. <a link=” http://www.google.com”>visit google</a>
+
+c. <link href=” http://www.google.com”>visit google</link>
+
+d. <link target=” http://www.google.com”>visit google</link>
